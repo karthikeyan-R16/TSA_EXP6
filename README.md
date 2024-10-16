@@ -2,7 +2,6 @@
 ### reg no : 212222240045
 ### Date:
 # Ex.No: 6   HOLT WINTERS METHOD
- 
 
 ## AIM:
 To implement the Holt Winters Method Model using Python
@@ -88,21 +87,14 @@ plt.xlabel('percentage')
 plt.ylabel('date')
 plt.title('Rainfall')
 plt.show()
-
 ```
 ## OUTPUT:
-
-
 #### TEST_PREDICTION
-
 ![image](https://github.com/user-attachments/assets/1804dcc2-3477-450a-a342-38ddaa34eb8f)
-
 
 ### FINAL_PREDICTION
 
 ![image](https://github.com/user-attachments/assets/e70de3f1-6473-4f36-86b5-1a62645dd241)
-
-
 
 ## RESULT:
 Thus the program run successfully based on the Holt Winters Method model.
